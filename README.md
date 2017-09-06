@@ -1,3 +1,2 @@
 # pryhub
-Ask people about anything, testaasdfasdf
-asdfasdf
+Ask people about anything
